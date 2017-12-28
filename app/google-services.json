@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11327457845",
+    "firebase_url": "https://live-tracking-b65c0.firebaseio.com",
+    "project_id": "live-tracking-b65c0",
+    "storage_bucket": "live-tracking-b65c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11327457845:android:fb8845803fb78800",
+        "android_client_info": {
+          "package_name": "com.mshoaibnuman.livetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11327457845-raii0dmbrps2ei9tushd1o4ud226v79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQA4fj1QZeyBlUl8-XNY5bHlUbH25Uam4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
